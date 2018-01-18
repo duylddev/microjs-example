@@ -1,0 +1,29 @@
+{
+  "name": "microjs-example",
+  "version": "0.0.1",
+  "description": "Microjs Framwork example project",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranleducduy/microjs-example.git"
+  },
+  "keywords": [
+    "microjs",
+    "example"
+  ],
+  "author": "duyld@eway.vn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tranleducduy/microjs-example/issues"
+  },
+  "homepage": "https://github.com/tranleducduy/microjs-example#readme",
+  "dependencies": {
+    "fs-router": "^0.4.0",
+    "micro": "^9.1.0",
+    "mongoose": "^5.0.0"
+  }
+}
